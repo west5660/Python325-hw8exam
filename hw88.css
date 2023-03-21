@@ -1,0 +1,90 @@
+section {
+
+    display: table-cell;
+    width: 100%;
+    height: 100%;
+    padding-right: 1em;
+    padding-left: 1em;
+    vertical-align: top;
+    font-size: 24px;
+    }
+div{
+    padding: 1em;
+    margin-bottom: 1em;
+    background-color: lavender;
+    text-align: justify;
+    box-sizing: border-box;
+    font-size: 24px;
+
+}
+
+.fl{
+    float: left;
+    margin-right: 1em;
+}
+
+.ff{
+    float: right;
+    margin-left: 1em;
+}
+
+img {
+    min-width: 100px;
+    min-height: 100px;
+}
+section img{
+     min-width: 200px;
+     min-height: 200px;
+}
+header {
+    background-color: lavender;
+    padding: 1em;
+    box-sizing: border-box;
+    text-align: center;
+    margin-bottom: 1em;
+    font-size: 1.5em;
+}
+
+header a{
+    text-decoration: none;
+    font-size: 1.5em;
+    margin-right: 6%;
+    color: blue;
+
+}
+
+header a:hover{
+    color: red;
+}
+
+footer a{
+    margin-right: 2em;
+    text-decoration: none;
+    font-size: 1.5em
+}
+
+.aq5{text-align: center;}
+
+footer a:hover{
+    color: red;
+}
+.aq3{
+    width: 48%;
+    float: left;
+    display: inline-block;
+    min-height: 600px
+
+}
+.aq4{
+    width: 48%;
+    float: right;
+    display: inline-block;
+    min-height: 600px
+    }
+.aq1, .aq2{margin-left: 1em;
+    margin-right: 1em;
+    }
+.fff{
+    float: left;
+    padding-right: 20px;
+    }
